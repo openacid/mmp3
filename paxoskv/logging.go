@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/kr/pretty"
-	"github.com/openacid/paxoskv/goid"
+	"github.com/openacid/mmp3/goid"
 )
 
 var (
